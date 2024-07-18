@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <style>
+        .first_element {
+            color: white;
+            text-align: center;
+            font-size: 50px;
+            font-family: sans-serif;
+        }
+        body {
+            background-color: black;
+        }
+        .third_element {
+            color: white;
+            text-align: center;
+            font-size: 25px;
+            font-family: sans-serif;
+        }
+        .fourth_element {
+            color: white;
+            text-align: center;
+            font-size: 50px;
+        }
+     </style>
+     <title>Wall Plast Music +</title>
+</head>
+<body>
+    <main>
+        <div id="page">
+            <section>
+                <h2 class="first_element">Wall Plast Music :</h2>
+                <a class="second_element" onclick="document.location='https://www.youtube.com/watch?v=OaTSPq0OL18&feature=youtu.be'"><img src="https://yt3.googleusercontent.com/E-F_GwqkNjBX_YWgx-qdLPzsO0qLx2Ng3vN8tL8HZQncNhZhVeXO1XxH-zCCjdWQuVD9Rynphu0=s160-c-k-c0x00ffffff-no-rj"
+                    width="400px"/></a>
+                <span class="third_element">#1 Music "Alone Home"</span>
+                <a class="second_element" onclick="document.location='https://youtu.be/O7VM4cswoSk'"><img src="https://yt3.googleusercontent.com/E-F_GwqkNjBX_YWgx-qdLPzsO0qLx2Ng3vN8tL8HZQncNhZhVeXO1XxH-zCCjdWQuVD9Rynphu0=s160-c-k-c0x00ffffff-no-rj"
+                    width="400px"/></a>
+                <span class="third_element">#2 Music "Cute Dreams"</span>  
+                <a class="second_element" onclick="document.location='https://youtu.be/liM5CeekqtI'"><img src="https://yt3.googleusercontent.com/E-F_GwqkNjBX_YWgx-qdLPzsO0qLx2Ng3vN8tL8HZQncNhZhVeXO1XxH-zCCjdWQuVD9Rynphu0=s160-c-k-c0x00ffffff-no-rj"
+                    width="400px"/></a>
+                <span class="third_element">#3 Music "Easy Breathing"</span>
+                <center>
+                <a class="second_element" onclick="document.location='https://youtu.be/CFW0B6HBp8I'"><img src="https://yt3.googleusercontent.com/E-F_GwqkNjBX_YWgx-qdLPzsO0qLx2Ng3vN8tL8HZQncNhZhVeXO1XxH-zCCjdWQuVD9Rynphu0=s160-c-k-c0x00ffffff-no-rj"
+                    width="400px"/></a>
+                <span class="fourth_element">#4 Music "Sweet Home"</span>  
+                </center>    
+            </section>
+        </div>
+    </main>
+</body>
+</html>
